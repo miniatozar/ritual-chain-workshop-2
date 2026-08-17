@@ -1,3 +1,25 @@
+# Ritual Predict 🌟
+Bootcamp Level 2 – Finished & Excited!
+ 
+Just completed the second bootcamp on August 17, 2026 and I’m still a bit hyped.
+
+This workshop showed me what “expressive compute” actually feels like in practice.  
+A prediction market that wakes itself up, reads real data, and settles — all without any backend or admin key.  
+That is genuinely cool.
+
+### What made me smile
+- The Scheduler just quietly doing its job at the exact block
+- Fetching oracle data inside a TEE like it’s nothing
+- The thoughtful Invalid + full refund path
+- How simple and elegant the claim math is
+
+### Current status
+Testnet already shut down, so no live deployment yet.  
+But I went through every important file and now feel I really get the whole system.
+
+Can’t wait for mainnet so we can create real markets and see them resolve in the wild.
+
+Stay Ritualized 💚
 # Ritual Predict
 
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
